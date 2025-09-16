@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<?xml-stylesheet type="text/css" href="as22027-ejemplo1.css" ?>
+<!-- ejemplo1.xml  SUCARNET -->
+<fichero>
+<ficha id="1" fechaingreso="09/10/2025">
+<nombre>Yajaira</nombre>
+<apellido>Argueta</apellido>
+<direccion>Sierra Morena Soyapango</direccion>
+</ficha>
+</fichero> 

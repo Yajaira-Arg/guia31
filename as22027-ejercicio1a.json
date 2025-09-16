@@ -1,0 +1,21 @@
+{
+    "ficha": [
+        {
+            "@attributes": {
+                "id": "1",
+                "fechaingreso": "16/09/2025"
+            },
+            "nombre": "Yajaira",
+            "apellido": "Nicole",
+            "direccion": "Sierra Morena, Soyapango"
+        },
+        {
+            "@attributes": {
+                "id": "2",
+                "fechaingreso": "16/09/2025"
+            },
+            "telefono": "69976687",
+            "email": "as22027@ues.edu.sv"
+        }
+    ]
+}

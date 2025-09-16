@@ -1,0 +1,34 @@
+{
+    "ficha": [
+        {
+            "@attributes": {
+                "id": "1",
+                "fechaingreso": "16/09/2025"
+            },
+            "nombre": "Yajaira",
+            "apellido": "Argueta",
+            "direccion": "Sierra Morena, Soyapango"
+        },
+        {
+            "@attributes": {
+                "id": "2",
+                "fechaingreso": "16/10/2025"
+            },
+            "telefono": "69976687",
+            "email": "as22027@ues.edu.sv"
+        },
+        {
+            "@attributes": {
+                "id": "3",
+                "fechaingreso": "16/09/2025"
+            },
+            "documentos": {
+                "@attributes": {
+                    "dui": "06597959-9",
+                    "isss": "987654321",
+                    "nit": "132424-6546-67"
+                }
+            }
+        }
+    ]
+}

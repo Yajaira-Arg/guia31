@@ -1,0 +1,11 @@
+{
+    "ficha": {
+        "@attributes": {
+            "id": "1",
+            "fechaingreso": "09/10/2025"
+        },
+        "nombre": "Yajaira",
+        "apellido": "Argueta",
+        "direccion": "Sierra Morena Soyapango"
+    }
+}

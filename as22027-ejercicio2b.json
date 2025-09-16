@@ -1,0 +1,34 @@
+{
+    "@attributes": {
+        "nombre": "El Salvador"
+    },
+    "departamento": [
+        {
+            "@attributes": {
+                "id": "1",
+                "nombre": "San Salvador"
+            },
+            "cabecera": "San Salvador",
+            "habitantes": "1,700,000",
+            "altura": "545 MSNM"
+        },
+        {
+            "@attributes": {
+                "id": "2",
+                "nombre": "La Union"
+            },
+            "cabecera": "La Union",
+            "habitantes": "80,000",
+            "altura": "500 MSNM"
+        },
+        {
+            "@attributes": {
+                "id": "3",
+                "nombre": "Cuscatlanl"
+            },
+            "cabecera": "Cuscatlan",
+            "habitantes": "90,000",
+            "altura": "350 MSNM"
+        }
+    ]
+}

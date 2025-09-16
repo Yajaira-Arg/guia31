@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml-stylesheet type="text/css" href="as22027-ejercicio1b.css" ?>
+<!-- ejemplo1.xml SUCARNET -->
+<fichero>
+  <ficha id="1" fechaingreso="16/09/2025">
+    <nombre>Yajaira</nombre>
+    <apellido>Argueta</apellido>
+    <direccion>Sierra Morena, Soyapango</direccion>
+  </ficha>
+  
+  <ficha id="2" fechaingreso="16/10/2025">
+    <telefono>69976687</telefono>
+    <email>as22027@ues.edu.sv</email>
+  </ficha>
+  
+  <ficha id="3" fechaingreso="16/09/2025">
+    <documentos dui="06597959-9" isss="987654321" nit="132424-6546-67"/>
+  </ficha>
+</fichero>
